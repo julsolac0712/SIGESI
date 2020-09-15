@@ -1,0 +1,14 @@
+2:47:18 p. m. --> Error: Mensaje: No se pudo encontrar el control 'hdf_CronoICT' en ControlParameter 'CronoICT'.
+____________________________________________________
+2:47:56 p. m. --> Error: Mensaje: No se pudo encontrar el control 'hdf_CronoICT' en ControlParameter 'CronoICT'.
+____________________________________________________
+2:52:34 p. m. --> Error: SqlException: Mercurio Procedure PE_ADM_Man_Indicadores State = 1 Line Number = 0 Message = @id_formulario is not a parameter for procedure PE_ADM_Man_Indicadores.
+____________________________________________________
+3:29:56 p. m. --> Error: SqlException: Mercurio Procedure PE_ADM_Get_Lista_Indicadores State = 4 Line Number = 0 Message = Procedure or function 'PE_ADM_Get_Lista_Indicadores' expects parameter '@CronoICT', which was not supplied.
+____________________________________________________
+3:30:03 p. m. --> Error: SqlException: Mercurio Procedure PE_ADM_Get_Lista_Indicadores State = 4 Line Number = 0 Message = Procedure or function 'PE_ADM_Get_Lista_Indicadores' expects parameter '@CronoICT', which was not supplied.
+____________________________________________________
+3:38:05 p. m. --> Error: SqlException: Mercurio Procedure PE_ADM_Get_Lista_Indicadores State = 4 Line Number = 0 Message = Procedure or function 'PE_ADM_Get_Lista_Indicadores' expects parameter '@CronoICT', which was not supplied.
+____________________________________________________
+4:34:39 p. m. --> Error: SqlException: Mercurio Procedure PE_ADM_Man_Indicadores State = 1 Line Number = 0 Message = Error converting data type nvarchar to datetime.
+____________________________________________________

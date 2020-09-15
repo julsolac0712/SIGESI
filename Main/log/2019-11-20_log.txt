@@ -1,0 +1,7 @@
+4:59:11 p. m. --> Error: SqlException: Mercurio Procedure PE_ADM_Man_Indicadores State = 1 Line Number = 0 Message = @fechalogro is not a parameter for procedure PE_ADM_Man_Indicadores.
+____________________________________________________
+5:14:54 p. m. --> Error: SqlException: Mercurio Procedure PE_ADM_Man_Indicadores State = 0 Line Number = 31 Message = The INSERT statement conflicted with the FOREIGN KEY constraint "FK_PE_Formulario_Indicadores_PE_Formulario_Estrategia". The conflict occurred in database "SIGESI", table "dbo.PE_Formulario_Estrategia", column 'id_formulario'.
+Error insertando la información Declaraciones
+The ROLLBACK TRANSACTION request has no corresponding BEGIN TRANSACTION.
+The statement has been terminated.
+____________________________________________________

@@ -1,0 +1,25 @@
+10:14:38 a. m. --> Error: SqlException: Mercurio Procedure PE_ADM_Man_Indicadores State = 0 Line Number = 36 Message = The INSERT statement conflicted with the FOREIGN KEY constraint "FK_PE_Formulario_Indicadores_PE_Formulario_Estrategia". The conflict occurred in database "SIGESI", table "dbo.PE_Formulario_Estrategia", column 'id_formulario'.
+Error insertando la información Declaraciones
+The ROLLBACK TRANSACTION request has no corresponding BEGIN TRANSACTION.
+The statement has been terminated.
+____________________________________________________
+10:15:58 a. m. --> Error: SqlException: Mercurio Procedure PE_ADM_Man_Indicadores State = 0 Line Number = 36 Message = The INSERT statement conflicted with the FOREIGN KEY constraint "FK_PE_Formulario_Indicadores_PE_Formulario_Estrategia". The conflict occurred in database "SIGESI", table "dbo.PE_Formulario_Estrategia", column 'id_formulario'.
+Error insertando la información Declaraciones
+The ROLLBACK TRANSACTION request has no corresponding BEGIN TRANSACTION.
+The statement has been terminated.
+____________________________________________________
+10:19:12 a. m. --> Error: SqlException: Mercurio Procedure PE_ADM_Man_Indicadores State = 0 Line Number = 42 Message = The INSERT statement conflicted with the FOREIGN KEY constraint "FK_PE_Formulario_Indicadores_PE_Formulario_Estrategia". The conflict occurred in database "SIGESI", table "dbo.PE_Formulario_Estrategia", column 'id_formulario'.
+Error insertando la información Declaraciones
+The ROLLBACK TRANSACTION request has no corresponding BEGIN TRANSACTION.
+The statement has been terminated.
+____________________________________________________
+10:20:45 a. m. --> Error: SqlException: Mercurio Procedure PE_ADM_Man_Indicadores State = 0 Line Number = 42 Message = The INSERT statement conflicted with the FOREIGN KEY constraint "FK_PE_Formulario_Indicadores_PE_Formulario_Estrategia". The conflict occurred in database "SIGESI", table "dbo.PE_Formulario_Estrategia", column 'id_formulario'.
+Error insertando la información Declaraciones
+The ROLLBACK TRANSACTION request has no corresponding BEGIN TRANSACTION.
+The statement has been terminated.
+____________________________________________________
+10:21:23 a. m. --> Error: SqlException: Mercurio Procedure PE_ADM_Man_Indicadores State = 0 Line Number = 42 Message = The INSERT statement conflicted with the FOREIGN KEY constraint "FK_PE_Formulario_Indicadores_PE_Formulario_Estrategia". The conflict occurred in database "SIGESI", table "dbo.PE_Formulario_Estrategia", column 'id_formulario'.
+Error insertando la información Declaraciones
+The ROLLBACK TRANSACTION request has no corresponding BEGIN TRANSACTION.
+The statement has been terminated.
+____________________________________________________

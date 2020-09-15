@@ -1,0 +1,5 @@
+C:\Proyectos\SIGESIwebform\Error_Handling\bin\Debug\Error_Handling.dll
+C:\Proyectos\SIGESIwebform\Error_Handling\bin\Debug\Error_Handling.pdb
+C:\Proyectos\SIGESIwebform\Error_Handling\obj\Debug\Error_Handling.csproj.CoreCompileInputs.cache
+C:\Proyectos\SIGESIwebform\Error_Handling\obj\Debug\Error_Handling.dll
+C:\Proyectos\SIGESIwebform\Error_Handling\obj\Debug\Error_Handling.pdb

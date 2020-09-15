@@ -1,0 +1,10 @@
+C:\Proyectos\SIGESIwebform\Utility\bin\Debug\Utility.dll
+C:\Proyectos\SIGESIwebform\Utility\bin\Debug\Utility.pdb
+C:\Proyectos\SIGESIwebform\Utility\bin\Debug\Utility.xml
+C:\Proyectos\SIGESIwebform\Utility\obj\Debug\Utility.Resources.resources
+C:\Proyectos\SIGESIwebform\Utility\obj\Debug\Acceso_Datos.vbproj.GenerateResource.cache
+C:\Proyectos\SIGESIwebform\Utility\obj\Debug\Acceso_Datos.vbproj.CoreCompileInputs.cache
+C:\Proyectos\SIGESIwebform\Utility\obj\Debug\Utility.dll
+C:\Proyectos\SIGESIwebform\Utility\obj\Debug\Utility.xml
+C:\Proyectos\SIGESIwebform\Utility\obj\Debug\Utility.pdb
+C:\Proyectos\SIGESIwebform\Utility\obj\Debug\Acceso_Datos.vbprojAssemblyReference.cache

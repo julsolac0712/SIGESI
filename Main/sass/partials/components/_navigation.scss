@@ -1,0 +1,41 @@
+﻿.navbar-iica {
+    background-color: $blue_dark;
+    padding-right: 15px;
+
+    .navbar-brand > img {
+        width: 50%;
+    }
+
+    li > a {
+        color: white;
+
+        &:hover {
+            background-color: $blue-light;
+        }
+    }
+
+    .nav .open {
+
+        & > a:hover, & > a:focus {
+            font-weight: bold;
+            background-color: $blue-light;
+        }
+    }
+
+    .dropdown-menu {
+        background-color: $blue-light;
+
+        a:hover {
+            font-weight: bold;
+            color: white;
+        }
+    }
+}
+
+.nav-tabs {
+    margin-top: 20px;
+}
+
+.tab-content {
+    padding-top: 20px;
+}

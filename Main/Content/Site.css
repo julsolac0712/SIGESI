@@ -1,0 +1,481 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+body {
+    font-family: 'Roboto';
+    font-size: 14px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    min-height: 600px;
+}
+
+#menu {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 75px;
+    background-color: #DDDDDD;
+    color: #FFFFFF;
+    z-index: 9999;
+    display: none;
+}
+
+
+label {
+    margin-top: 6px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+
+    .body-content {
+        padding: 40px;
+        padding-top: 100px;
+    }
+}
+
+/*End Headers*/
+/*DIV*/
+
+.div-centrada {
+    text-align: center;
+}
+
+.legend-container > label {
+    margin-left: 10px;
+    background-color: white;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.legend-container > div {
+    padding: 10px;
+    border: 1px solid rgb(221, 221, 221);
+    border-radius: 8px;
+    margin-top: -15px;
+}
+
+
+/*END DIV*/
+
+/*Listas*/
+.list-no-bullet {
+    list-style-type: none;
+}
+/*END Listas*/
+
+/*Module Dashboard*/
+
+.module-dashboard-buttons div {
+    width: 92%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.module-dashboard-buttons a {
+    display: block;
+    border: 1px solid #F0F0F0;
+    border-radius: 6px;
+    padding-right: 22px;
+    font-size: 1.063em;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    min-width: 220px;
+    width: 85%;
+}
+
+    .module-dashboard-buttons a:hover {
+        /*background-color:rgba(0, 0, 0, 0.5);*/
+    }
+
+        .module-dashboard-buttons a:hover img {
+            border-right: 1px solid #000000;
+        }
+
+.module-dashboard-buttons img {
+    max-width: 50px;
+    margin-right: 22px;
+    border-right: 1px solid #715656;
+    padding: 4px;
+}
+
+@media screen and (min-width: 990px) {
+    .module-dashboard-buttons a {
+        display: inline-block;
+        margin: 0 6%;
+    }
+}
+
+/*Estilo 2*/
+
+.module-dashboard-buttons-alt a {
+    display: inline-block;
+    max-width: 100px;
+    font-size: 1.3em;
+    margin: 0 6%;
+    border: 1px solid #F0F0F0;
+    border-radius: 6px;
+}
+
+.module-dashboard-buttons-alt img {
+    width: 100%;
+}
+
+/*End Links*/
+
+/*Botones*/
+.btn-group-padded-8 {
+    padding: 8px;
+}
+
+.btn-float-right {
+    float: right;
+}
+
+.btn-iica-green {
+    color: #FFF;
+    background-color: #693;
+    border-color: #59882b;
+    left: 0px;
+    font-size: 1.3rem;
+}
+
+    .btn-iica-green:hover {
+        color: white;
+        text-decoration: underline;
+        background-color: #557931;
+    }
+
+input.btn-iica-green:hover {
+    color: #FFF;
+    background-color: #693;
+    border-color: #59882b;
+}
+
+.gv-buttons {
+    width: 6%;
+    text-align: center;
+}
+
+.btn-iica-blue-light {
+    color: #FFF;
+    background-color: #006699;
+    border-color: #003366;
+}
+
+    .btn-iica-blue-light:hover {
+        color: white;
+        background-color: #003366;
+        text-decoration: underline;
+    }
+
+/*End Botones*/
+
+/*Forms*/
+.form-header {
+    background-color: #003366;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 0px;
+}
+
+    .form-header h2, .form-header h3, .form-header h4 {
+        display: inline-block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .form-header .float-right {
+        float: right;
+        margin-top: 10px;
+    }
+
+.form-body {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+/*End Forms*/
+
+/*Generic*/
+.margin-top-18-neg {
+    margin-top: -18px;
+}
+
+.margin-top-5 {
+    margin-top: 5px;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-top-30 {
+    margin-top: 30px;
+}
+
+.margin-left-5 {
+    margin-left: 5px;
+}
+
+.margin-right-5 {
+    margin-right: 5px;
+}
+
+.padding-top-label-sim {
+    padding-top: 32px;
+}
+
+.width-100 {
+    width: 100%
+}
+
+.text-center {
+    text-align: center;
+}
+
+.chk-lst-table label {
+    margin-left: 6px;
+    margin-right: 4px;
+}
+/*End Generic*/
+
+/*Modal*/
+.modal-body-mh-600 {
+    max-height: 600px;
+    overflow-y: scroll;
+}
+/*End Modal*/
+
+/*Error*/
+.error-span {
+    display: block;
+    color: red;
+    font-weight: bold;
+}
+/*End Error*/
+/*Glyphicons*/
+.glyphicons-iica {
+    font-size: 20px;
+    color: green;
+}
+
+
+/*
+ * Header Styles
+ */
+.site-header .top-header {
+    padding: 30px 0;
+}
+
+.site-header .bottom-header {
+    background-color: #003366;
+    *zoom: 1;
+    padding: 0px 0;
+}
+
+    .site-header .bottom-header:after {
+        content: " ";
+        clear: both;
+        display: block;
+        overflow: hidden;
+        height: 0;
+    }
+
+@media screen and (max-width: 640px) {
+    .site-header .bottom-header .social-links {
+        display: none;
+    }
+}
+
+#branding {
+    float: left;
+}
+
+    #branding .logo, #branding .logo-text {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    #branding .logo {
+        margin-right: 10px;
+    }
+
+    #branding .site-title {
+        margin-bottom: 0;
+        font-size: 20px;
+        font-size: 1.25em;
+    }
+
+        #branding .site-title a {
+            color: #768089;
+        }
+
+.right-section .phone, .right-section .search-form {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+}
+
+@media screen and (max-width: 640px) {
+    .right-section .phone {
+        display: none;
+    }
+}
+
+.right-section .phone img {
+    vertical-align: middle;
+}
+
+.right-section .search-form {
+    margin: 10px 0;
+    margin-left: 20px;
+}
+
+@media screen and (max-width: 480px) {
+    .right-section .search-form {
+        display: none;
+    }
+}
+
+.right-section .search-form input {
+    padding-right: 40px;
+}
+
+.right-section .search-form button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: none;
+}
+
+.main-navigation {
+    float: left;
+}
+
+    .main-navigation .menu-toggle {
+        border: none;
+        background: none;
+        color: white;
+        font-size: 20px;
+        font-size: 1.25em;
+        display: none;
+        outline: none;
+    }
+
+@media screen and (max-width: 990px) {
+    .main-navigation .menu-toggle {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 991px) {
+    .main-navigation .menu-toggle {
+        display: none;
+    }
+}
+
+.main-navigation .menu {
+    list-style: none;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+@media screen and (max-width: 990px) {
+    .main-navigation .menu {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 991px) {
+    .main-navigation .menu {
+        display: block;
+    }
+}
+
+.main-navigation .menu li {
+    display: inline-block;
+}
+
+    .main-navigation .menu li a {
+        color: white;
+        padding: 0 10px;
+        border-right: 1px solid rgba(255, 255, 255, 0.3);
+        -webkit-transition: .3s ease;
+        transition: .3s ease;
+    }
+
+        .main-navigation .menu li a:hover {
+            color: #42a8f0;
+        }
+
+    .main-navigation .menu li.current-menu-item a {
+        color: #1392ec;
+    }
+
+.social-links {
+    float: right;
+}
+
+    .social-links a {
+        width: 30px;
+        height: 30px;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        border-radius: 50%;
+        text-align: center;
+        line-height: 1.8;
+        color: white;
+        margin-left: 5px;
+        display: inline-block;
+        -webkit-transition: .3s ease;
+        transition: .3s ease;
+    }
+
+        .social-links a:hover {
+            color: #1392ec;
+            border-color: #1392ec;
+        }
+
+.mobile-navigation {
+    clear: both;
+    display: none;
+}
+
+@media screen and (min-width: 991px) {
+    .mobile-navigation {
+        display: none !important;
+    }
+}
+
+.mobile-navigation .menu {
+    list-style: none;
+}
+
+    .mobile-navigation .menu a {
+        padding: 20px 0;
+        display: block;
+        color: white;
+    }
+
+    .mobile-navigation .menu .current-menu-item a {
+        color: #1392ec;
+    }

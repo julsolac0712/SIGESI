@@ -1,0 +1,9 @@
+C:\Proyectos\SIGESIwebform\Generic\bin\Debug\Generic.dll
+C:\Proyectos\SIGESIwebform\Generic\bin\Debug\Generic.pdb
+C:\Proyectos\SIGESIwebform\Generic\bin\Debug\Generic.xml
+C:\Proyectos\SIGESIwebform\Generic\obj\Debug\Generic.Resources.resources
+C:\Proyectos\SIGESIwebform\Generic\obj\Debug\Generic.vbproj.GenerateResource.cache
+C:\Proyectos\SIGESIwebform\Generic\obj\Debug\Generic.vbproj.CoreCompileInputs.cache
+C:\Proyectos\SIGESIwebform\Generic\obj\Debug\Generic.dll
+C:\Proyectos\SIGESIwebform\Generic\obj\Debug\Generic.xml
+C:\Proyectos\SIGESIwebform\Generic\obj\Debug\Generic.pdb

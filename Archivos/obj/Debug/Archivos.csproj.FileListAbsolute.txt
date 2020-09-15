@@ -1,0 +1,6 @@
+C:\Proyectos\SIGESIwebform\Archivos\bin\Debug\Archivos.dll
+C:\Proyectos\SIGESIwebform\Archivos\bin\Debug\Archivos.pdb
+C:\Proyectos\SIGESIwebform\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Proyectos\SIGESIwebform\Archivos\obj\Debug\Archivos.dll
+C:\Proyectos\SIGESIwebform\Archivos\obj\Debug\Archivos.pdb
+C:\Proyectos\SIGESIwebform\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache

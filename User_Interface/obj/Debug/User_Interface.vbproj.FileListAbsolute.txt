@@ -1,0 +1,9 @@
+C:\Proyectos\SIGESIwebform\User_Interface\bin\Debug\User_Interface.dll
+C:\Proyectos\SIGESIwebform\User_Interface\bin\Debug\User_Interface.pdb
+C:\Proyectos\SIGESIwebform\User_Interface\bin\Debug\User_Interface.xml
+C:\Proyectos\SIGESIwebform\User_Interface\obj\Debug\User_Interface.Resources.resources
+C:\Proyectos\SIGESIwebform\User_Interface\obj\Debug\User_Interface.vbproj.GenerateResource.cache
+C:\Proyectos\SIGESIwebform\User_Interface\obj\Debug\User_Interface.vbproj.CoreCompileInputs.cache
+C:\Proyectos\SIGESIwebform\User_Interface\obj\Debug\User_Interface.dll
+C:\Proyectos\SIGESIwebform\User_Interface\obj\Debug\User_Interface.xml
+C:\Proyectos\SIGESIwebform\User_Interface\obj\Debug\User_Interface.pdb

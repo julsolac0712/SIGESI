@@ -1,0 +1,47 @@
+﻿body {
+    font-family: 'Ubuntu';
+    font-size: 16px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin: 0;
+    background-color: $grey;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    min-height: 600px;
+}
+
+.head-section {
+    padding-top: 20px;
+    background-color: $grey;
+}
+
+.form-wrapper {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    border: black aliceblue;
+    border: 1px solid #c8c8d3;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+
+.form-section-title {
+    color: $blue-dark;
+    border-bottom: 1px solid #c8c8d3;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+
+    &.bold {
+        font-weight: bold;
+    }
+}
+
+.error-message {
+    display: block;
+    color: red;
+    font-weight: bold;
+}

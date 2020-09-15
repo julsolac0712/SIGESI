@@ -1,0 +1,4 @@
+14:54:48 --> Error: Mensaje: Subproceso anulado.
+____________________________________________________
+3:37:36 PM --> Error: Mensaje: Thread was being aborted.
+____________________________________________________
